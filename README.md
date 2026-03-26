@@ -16,4 +16,4 @@
 9 - Para cada página faça um commit.
 10 - Faça um push e um PR, atualize a pages do git e verifique o resultado. 
 
-## Obs: Caso queira que o Prof veja o resultado, envie o lik do repo e do pages via TEAMS.
+## Obs: Caso queira que o Prof veja o resultado, envie o link do repo e do pages via TEAMS.
